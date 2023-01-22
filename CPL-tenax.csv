@@ -1,0 +1,41 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,1N4148WS,Diode-Hybrid-Back,39.45,-85.75,-170,bottom
+D2,1N4148WS,Diode-Hybrid-Back,42.95,-104.25,-170,bottom
+D3,1N4148WS,Diode-Hybrid-Back,45.95,-123.25,-170,bottom
+D4,1N4148WS,Diode-Hybrid-Back,63.499,-72.75,180,bottom
+D5,1N4148WS,Diode-Hybrid-Back,63.499,-91.75,180,bottom
+D6,1N4148WS,Diode-Hybrid-Back,63.499,-110.75,180,bottom
+D7,1N4148WS,Diode-Hybrid-Back,82.549,-66.75,180,bottom
+D8,1N4148WS,Diode-Hybrid-Back,82.549,-85.75,180,bottom
+D9,1N4148WS,Diode-Hybrid-Back,82.549,-104.75,180,bottom
+D10,1N4148WS,Diode-Hybrid-Back,93.6502,-130.25,180,bottom
+D11,1N4148WS,Diode-Hybrid-Back,101.599,-73.25,180,bottom
+D12,1N4148WS,Diode-Hybrid-Back,101.599,-92.25,180,bottom
+D13,1N4148WS,Diode-Hybrid-Back,101.599,-111.25,180,bottom
+D14,1N4148WS,Diode-Hybrid-Back,112.95,-134.3058,162,bottom
+D15,1N4148WS,Diode-Hybrid-Back,120.649,-75.75,180,bottom
+D16,1N4148WS,Diode-Hybrid-Back,120.649,-94.75,180,bottom
+D17,1N4148WS,Diode-Hybrid-Back,120.649,-113.75,180,bottom
+D18,1N4148WS,Diode-Hybrid-Back,130.95,-142.75,147,bottom
+D19,1N4148WS,Diode-Hybrid-Back,183.099,-75.75,180,bottom
+D20,1N4148WS,Diode-Hybrid-Back,183.099,-94.75,180,bottom
+D21,1N4148WS,Diode-Hybrid-Back,183.099,-113.75,180,bottom
+D22,1N4148WS,Diode-Hybrid-Back,173.45,-142.75,-146,bottom
+D23,1N4148WS,Diode-Hybrid-Back,202.149,-73.25,180,bottom
+D24,1N4148WS,Diode-Hybrid-Back,202.149,-92.25,180,bottom
+D25,1N4148WS,Diode-Hybrid-Back,202.149,-111.25,180,bottom
+D26,1N4148WS,Diode-Hybrid-Back,190.95,-134.25,-161,bottom
+D27,1N4148WS,Diode-Hybrid-Back,221.199,-66.75,180,bottom
+D28,1N4148WS,Diode-Hybrid-Back,221.199,-85.75,180,bottom
+D29,1N4148WS,Diode-Hybrid-Back,221.199,-104.75,180,bottom
+D30,1N4148WS,Diode-Hybrid-Back,210.45,-130.25,-177,bottom
+D31,1N4148WS,Diode-Hybrid-Back,240.249,-72.75,180,bottom
+D32,1N4148WS,Diode-Hybrid-Back,240.249,-91.75,180,bottom
+D33,1N4148WS,Diode-Hybrid-Back,240.249,-110.75,180,bottom
+D34,1N4148WS,Diode-Hybrid-Back,264.45,-85.75,170,bottom
+D35,1N4148WS,Diode-Hybrid-Back,261.45,-104.75,170,bottom
+D36,1N4148WS,Diode-Hybrid-Back,257.95,-123.25,170,bottom
+J3,Bat Conn L,Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical,139.514,-124.8157,180,bottom
+J6,Bat Conn R,Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical,164.294,-124.8157,180,bottom
+SW37,PWR L,SW_SPDT_PCM12,147.1224,-127.0582,286,bottom
+SW38,PWR R,SW_SPDT_PCM12,156.61,-127.05,74,bottom
