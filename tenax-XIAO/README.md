@@ -10,3 +10,5 @@ There is an issue with the way the footprints lined up for the CPL file. I would
 
 ![Top](https://github.com/JonMuller/gerbers/blob/main/tenax-XIAO/tenax-XIAO%20Top.jpg)
 
+![Schematic](https://github.com/JonMuller/gerbers/blob/main/tenax-XIAO/Schematic.jpg)
+
