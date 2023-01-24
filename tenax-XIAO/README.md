@@ -2,3 +2,5 @@ There is an issue with the way the footprints lined up for the CPL file. I would
 
 ![Bottom](https://github.com/JonMuller/gerbers/blob/main/tenax-XIAO/tenax-XIAO%20Bottom.jpg)
 
+![Top](https://github.com/JonMuller/gerbers/blob/main/tenax-XIAO/tenax-XIAO%20Top.jpg)
+
