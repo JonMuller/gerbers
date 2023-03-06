@@ -1,3 +1,7 @@
+###Update as of 03/06/23###
+I had some of these made and I built one. Pics to follow when I have a chance, but this is confirmed as working. No issues so far. Displays and all. I will also try to post the basic ZMK files needed to get this up and running.
+###End update####
+
 Modified the original from a direct pin setup to a matrix with XIAO controllers. Removed the TRRS, added power switch (Note the board will not charge unless the power switch is in the on position) and added a place to connect a battery. 
 
 Original can be found here: https://github.com/toniz4/tenax
