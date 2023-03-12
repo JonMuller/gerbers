@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,D,Diode-dual,-119.725,-16,180,bottom
+D2,D,Diode-dual,-101.725,-16,180,bottom
+D3,D,Diode-dual,-83.75,-11,180,bottom
+D4,D,Diode-dual,-65.775,-8.75,180,bottom
+D5,D,Diode-dual,-47.725,-11,180,bottom
+D6,D,Diode-dual,-29.775,-13.5,180,bottom
+D7,D,Diode-dual,-119.775,-32.75,180,bottom
+D8,D,Diode-dual,-101.775,-32.75,180,bottom
+D9,D,Diode-dual,-83.75,-28,180,bottom
+D10,D,Diode-dual,-65.75,-25.75,180,bottom
+D11,D,Diode-dual,-47.75,-28,180,bottom
+D12,D,Diode-dual,-29.775,-30.5,180,bottom
+D13,D,Diode-dual,-119.775,-49.75,180,bottom
+D14,D,Diode-dual,-101.775,-49.75,180,bottom
+D15,D,Diode-dual,-83.75,-45,180,bottom
+D16,D,Diode-dual,-65.775,-42.75,180,bottom
+D17,D,Diode-dual,-47.725,-45,180,bottom
+D18,D,Diode-dual,-29.775,-47.5,180,bottom
+D19,D,Diode-dual,-52.925,-65.949,180,bottom
+D20,D,Diode-dual,-32.89,-68.24,195,bottom
+D21,D,Diode-dual,-5.663,-71.086,120,bottom
+J8,Conn_01x02_MountingPin,Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical,-1.73,-59.03,300,bottom
