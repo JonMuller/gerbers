@@ -3,4 +3,9 @@ PCBA done, I've included a BOM and CPL that has all the info for the diodes and 
 
 SVG files can be imported into Fusion 360 to create a sketch to start the case making fun. They are pulled from the PCB Edge Cuts.
 
+***EDIT***
+
+03/12/23 addede in ZMK starter files. These should go in the boards/sheilds directory of your zmk branch. Then go in and modify the build.yml to include it.
+
+If you get stuck on anything, the zmk discord is very helpful. 
 
