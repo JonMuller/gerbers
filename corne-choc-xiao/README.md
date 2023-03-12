@@ -5,7 +5,9 @@ SVG files can be imported into Fusion 360 to create a sketch to start the case m
 
 ***EDIT***
 
-03/12/23 addede in ZMK starter files. These should go in the boards/sheilds directory of your zmk branch. Then go in and modify the build.yml to include it.
+03/12/23 added in ZMK starter files. These should go in the boards/sheilds directory of your ZMK branch. Then go in and modify the build.yml to include it.
 
-If you get stuck on anything, the zmk discord is very helpful. 
+If you get stuck on anything, the ZMK discord is very helpful. 
+
+https://zmk.dev/
 
