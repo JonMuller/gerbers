@@ -5,7 +5,9 @@ SVG files can be imported into Fusion 360 to create a sketch to start the case m
 
 ***EDIT***
 
-03/18/23 Adding some links to parts
+04/09/23 Adding some links to parts and pics.
+
+More pics to look at for guidance on building: https://imgur.com/a/QKp5wG5
 
 Power switches: https://www.amazon.com/gp/product/B0826XVZ8M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
