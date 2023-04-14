@@ -5,6 +5,8 @@ SVG files can be imported into Fusion 360 to create a sketch to start the case m
 
 ***EDIT***
 
+04/14/23 Updated ZMK starter files to work with latest ZMK updates.
+
 04/09/23 Adding some links to parts and pics.
 
 More pics to look at for guidance on building: https://imgur.com/a/QKp5wG5
