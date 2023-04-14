@@ -46,14 +46,35 @@ RC(2,0) RC(2,1) RC(2,2) RC(2,3) RC(2,4)  RC(2,5) RC(2,6) RC(2,7) RC(2,8) RC(2,9)
 };
 
 
-&spi0 {
-	compatible = "nordic,nrf-spim";
-	status = "okay";
-	sck-pin = <5>;
-	mosi-pin = <4>;
-	miso-pin = <8>;
-	cs-gpios = <&gpio0 10 GPIO_ACTIVE_HIGH>;
+&pinctrl {
+	spi0_default: spi0_default {
+		group1 {
+			psels = <NRF_PSEL(SPIM_SCK, 0, 5)>,
+				<NRF_PSEL(SPIM_MOSI, 0, 4)>,
+				<NRF_PSEL(SPIM_MISO, 0, 8)>;
+		};
+	};
+	spi0_sleep: spi0_sleep {
+		group1 {
+			psels = <NRF_PSEL(SPIM_SCK, 0, 5)>,
+				<NRF_PSEL(SPIM_MOSI, 0, 4)>,
+				<NRF_PSEL(SPIM_MISO, 0, 8)>;
+			low-power-enable;
+		};
+	};	
+};
 
+
+display_spi: &spi0 {
+	compatible = "nordic,nrf-spim";
+	pinctrl-0 = <&spi0_default>;
+	pinctrl-1 = <&spi0_sleep>;
+	pinctrl-names = "default", "sleep";
+	cs-gpios = <&gpio0 10 GPIO_ACTIVE_HIGH>;
+};
+
+&display_spi {
+	status = "okay";
 	sharp: ls0xx@0 {
 		compatible = "sharp,ls0xx";
 		label = "DISPLAY";
@@ -61,7 +82,7 @@ RC(2,0) RC(2,1) RC(2,2) RC(2,3) RC(2,4)  RC(2,5) RC(2,6) RC(2,7) RC(2,8) RC(2,9)
 		reg = <0>;
 		width = <160>;
 		height = <68>;
-		// disp-en-gpios = <&gpio0 23 GPIO_ACTIVE_HIGH>;
+		//disp-en-gpios = <&gpio0 6 GPIO_ACTIVE_HIGH>; //testing setting this to 6 from 23
 	};
 };
 
