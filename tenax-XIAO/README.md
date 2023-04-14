@@ -1,3 +1,5 @@
+###Updatre as of 04/14/23### Modified ZMK starter files for newest updates. Should work as is.
+
 ###Update as of 03/11/23### Added build pics and starter files for ZMK.
 
 ###Update as of 03/06/23###
