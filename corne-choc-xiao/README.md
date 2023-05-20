@@ -1,6 +1,14 @@
 Here's some gerbers to get yourself into trouble with. You should be able to just drop the gerber zip file into JLCPCB. If you also want to have some of the 
 PCBA done, I've included a BOM and CPL that has all the info for the diodes and the battery connector.
 
+****UPDATE 05/20/23****PLEASE READ*****
+
+If you do not opt for PCBA, please note that the diode markers should face the square through hole connection.
+
+It's not the end of the world if you go the other way, but the firmware has to be adjusted to account for that. I've created a new generic firmware based on the startup files I included that goes row2col instead of col2row.
+
+****END UPDATE****
+
 SVG files can be imported into Fusion 360 to create a sketch to start the case making fun. They are pulled from the PCB Edge Cuts.
 
 ***EDIT***
