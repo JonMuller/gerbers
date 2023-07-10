@@ -1,4 +1,4 @@
-These are the case files. Below is a render of the right side, but they are just mirrors of each other. 
+These are the case files for the 5 column version only. Below is a render of the right side, but they are just mirrors of each other. 
 
 Please note, these case files are a work in progress.
 
