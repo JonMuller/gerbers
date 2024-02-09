@@ -126,6 +126,7 @@ display_i2c: &i2c0 {
 		multiplex-ratio = <31>;
 		segment-remap;
 		com-invdir;
+		inversion-on;
 		com-sequential;
 		prechargep = <0x22>;
 	};
