@@ -1,6 +1,9 @@
 Here's some gerbers to get yourself into trouble with. You should be able to just drop the gerber zip file into JLCPCB. If you also want to have some of the 
 PCBA done, I've included a BOM and CPL that has all the info for the diodes and the battery connector.
 
+Please Note: This is a Choc spaced board. Only standard Choc caps will work on this board. For example, the Worklouder caps that fit choc switches are actually MX spaced. You'll need the 18x17mm caps, nothing 19x19mm will work.
+
+
 ****UPDATE 05/20/23 PLEASE READ*****
 
 If you do not opt for PCBA, please note that the diode markers should face the square through hole connection.
