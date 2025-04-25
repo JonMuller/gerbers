@@ -1,0 +1,8 @@
+# Copyright (c) 2020 Pete Johanson
+# SPDX-License-Identifier: MIT
+
+config SHIELD_NEUROPHANTE_LEFT
+	def_bool $(shields_list_contains,neurophante_left)
+
+config SHIELD_NEUROPHANTE_RIGHT
+	def_bool $(shields_list_contains,neurophante_right)

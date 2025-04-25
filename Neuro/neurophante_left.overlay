@@ -1,0 +1,19 @@
+/*
+ * Copyright (c) 2020 Pete Johanson
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include "neurophante.dtsi"
+
+&kscan0 {
+	col-gpios
+		= <&gpio1 06 GPIO_ACTIVE_HIGH>	//Col0
+		, <&gpio1 04 GPIO_ACTIVE_HIGH>  //Col1
+		, <&gpio0 11 GPIO_ACTIVE_HIGH>  //Col2
+		, <&gpio1 00 GPIO_ACTIVE_HIGH>  //Col3
+		, <&gpio0 24 GPIO_ACTIVE_HIGH>  //Col4
+		, <&gpio0 22 GPIO_ACTIVE_HIGH>  //Col5
+		;
+};
+
